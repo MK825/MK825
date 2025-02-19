@@ -26,7 +26,7 @@ A responsive portfolio website to showcase my skills, projects, and blog posts.
 
 ---
 
-### 🎨 [NFT Marketplace](https://github.com/MK825/nft-marketplace)
+### 🔗 [NFT Marketplace](https://github.com/MK825/nft-marketplace)
 A decentralized **NFT Marketplace** where users can mint, buy, and sell NFTs securely on the Ethereum blockchain.
 
 **Tech Stack:** Solidity, Web3.js, React, Next.js, IPFS, MongoDB  

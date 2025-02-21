@@ -9,7 +9,7 @@ I specialize in **Full-Stack Development** and **Blockchain Development**, focus
 ## 🛠️ Tech Stack
 
 💻 **Frontend:** React, Next.js, Flutter, Dart, TypeScript, TailwindCSS,  Vue,  Angular  
-🛠 **Backend:** Node.js, Express, NestJS, GraphQL, REST APIs   
+🛠 **Backend:** Node.js, Express, NestJS, GraphQL, REST APIs,  Python   
 📦**Databases:** MongoDB, PostgreSQL, Firebase  
 🔗 **Blockchain:** Solidity, Web3.js, Ethers.js, Hardhat, Truffle  
 ☁ **DevOps:** Docker, Kubernetes, AWS, GitHub Actions  

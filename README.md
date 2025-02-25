@@ -29,35 +29,30 @@ A responsive portfolio website to showcase my skills and projects.
 ### 🔗 [NFT Marketplace](https://github.com/MK825/nft-marketplace-react)
 A decentralized **NFT Marketplace** where users can mint, buy, and sell NFTs securely on the Ethereum blockchain.
 
-**Tech Stack:** Solidity, Web3.js, React, Next.js, IPFS, MongoDB  
 
 ---
 
 ### 🔥 [E-Commerce Platform](https://github.com/MK825/node-react-ecommerce)
 A full-stack **e-commerce website** with user authentication, product management, and payment integration.
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Stripe API
 
 ---
 
 ### 💰 [DeFi Staking Platform](https://github.com/MK825/DeFi-Staking-dApp)
 A **DeFi Staking** application allowing users to stake tokens and earn rewards via smart contracts.
 
-**Tech Stack:** Solidity, React, Node.js, Ethereum, PostgreSQL  
 
 ---
 
 ### 📝 [Blog CMS](https://github.com/MK825/CMS-blog)
 A **content management system (CMS)** for writing, editing, and publishing blog posts with an admin dashboard.
 
-**Tech Stack:** Vue.js, Django, PostgreSQL, REST API
 
 ---
 
 ### 🗳️ [Decentralized Voting System](https://github.com/MK825/Decentralized-voting-system)
 A **blockchain-based voting** system ensuring secure and transparent elections.
 
-**Tech Stack:** Solidity, React, Web3.js, Hardhat  
 
 ---
 

@@ -22,7 +22,7 @@ I specialize in **Full-Stack Development** and **Blockchain Development**, focus
 ### 🎨 [Personal Portfolio](https://github.com/MK825/portfolio-website)
 A responsive portfolio website to showcase my skills and projects.
 
-**Tech Stack:** React, Next.js, Tailwind CSS, Framer Motion
+
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Hey, I'm a Full-Stack & Blockchain Developer 🚀
+# 👋 Hey, I'm a Full-Stack & AI Specialist & Automation Developer 🚀
 
 ### 🔗 Passionate about building scalable web applications & decentralized blockchain solutions.
 
